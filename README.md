@@ -11,3 +11,5 @@ The method could preform multi-objective optimization.
 `mol_generator_random.py`: Generating new molecules by choosing fragments randomly.
 
 `mol_generator_ga.py`: Generating new molecules by GA.
+
+Put the prediction model in `./model`, and data in `./data`.
